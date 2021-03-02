@@ -14,4 +14,4 @@ async def on_ready():
 async def repeat(ctx, *, text):
   await ctx.send(text)
      
-app.run('NDgyMTAwMjczODQyNjE4Mzc4.W35s3g.7Y839hANecV3yxxmDAPTfrQx5Uw')
+app.run('token')
